@@ -1,3 +1,1 @@
-# git-course
-for learn
-##project note
+this is node
